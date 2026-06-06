@@ -129,13 +129,7 @@ gap:40px;
 flex-wrap:wrap;
 }
 
-.profile{
-width:250px;
-height:250px;
-border-radius:50%;
-object-fit:cover;
-border:5px solid #00f7ff;
-}
+
 
 .about-text{
 max-width:600px;
